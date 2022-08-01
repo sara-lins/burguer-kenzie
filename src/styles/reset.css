@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+
+:root {
+  --Color-primary: #27ae60;
+  --Color-primary-50: #93d7af;
+  --Color-secondary: #eb5757;
+  --gray-100: #333333;
+  --grey-50: #828282;
+  --grey-20: #e0e0e0;
+  --grey-0: #f5f5f5;
+  --Negative: #e60000;
+  --Warning: #ffcd07;
+  --Sucess: #168821;
+  --Information: #155bcb;
+}
